@@ -1,0 +1,7 @@
+Requirements cho dự án mssv1_mssv2_mssv3_CaroAI
+
+Dự án sử dụng Python thuần và thư viện Tkinter (đã tích hợp sẵn trong bộ cài Python tiêu chuẩn)
+
+Không cần cài đặt thêm các thư viện bên thứ ba (như numpy, pygame) để tránh lỗi xung đột môi trường.
+
+Phiên bản Python khuyến nghị: Python 3.8 trở lên.
