@@ -13,12 +13,10 @@ Mã số sinh viên (MSV): 22026145
 Thư mục dự án được tổ chức đồng bộ và chuẩn hóa chính xác theo yêu cầu nộp bài:
 
 22026145_CaroAI/
-│
-├── source_code/
-│   └── caro.py            # Chứa toàn bộ mã nguồn chương trình (Logic game, Thuật toán, GUI Tkinter, Phân tích Lv3)
-│
-├── requirements.txt       # Định nghĩa môi trường chạy (Python thuần)
-└── README.md              # Tài liệu hướng dẫn cài đặt và vận hành hệ thống
+    source_code/
+      caro.py            # Chứa toàn bộ mã nguồn chương trình (Logic game, Thuật toán, GUI Tkinter, Phân tích Lv3)
+    requirements.txt       # Định nghĩa môi trường chạy (Python thuần)
+    README.md              # Tài liệu hướng dẫn cài đặt và vận hành hệ thống
 
 
 🎨 Các tính năng nổi bật của chương trình
